@@ -49,7 +49,7 @@ Choose your repo
 
 ```bash
 git clone https://github.com/RaaaGH/YorBotz
-cd bot-md
+cd YorBotz
 npm i
 node .
 ```
@@ -66,7 +66,7 @@ $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
 $ git clone https://github.com/RaaaGH/YorBotz
-$ cd Rul1
+$ cd YorBotz
 $ npm i
 $ node .
 ```
